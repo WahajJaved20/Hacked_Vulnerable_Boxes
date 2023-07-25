@@ -1,6 +1,4 @@
 # ASSESSMENT_NOTES
-# Assesment Notes
-
 
 ## Kioptrix (192.168.1.109)
 POTENTIAL VULNERABILITIES =>
